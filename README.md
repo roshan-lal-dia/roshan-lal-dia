@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on #100DaysOfCode<br>🌱 I’m currently learning #DigitalForensics<br>💬 Ask me about Tech<br>⚡ Fun fact - I want to compose music
+🔭 I’m currently working on #100DaysOfCode<br>🌱 I’m currently learning #DigitalForensics<br>💬 Ask me about Tech<br>⚡ Fun fact - I want to compose music<br> 👁️ Looking for Internships
 
 
 ## 🌐 Socials:
