@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on #100DaysOfCode<br>🌱 I’m currently learning #DigitalForensics<br>💬 Ask me about Tech<br>⚡ Fun fact - I want to compose music<br> 👁️ Looking for Internships
+🔭 I’m currently working on #100DaysOfCode<br>🌱 I’m currently learning #Web3 Development<br>💬 Ask me about Tech<br>⚡ Fun fact - I want to compose music<br> 👁️ Looking for Internships
 
 ![About Me](https://github.com/roshan-lal-dia/roshan-lal-dia/blob/main/dia-linkedin-banner-mar-2023.png)
 
