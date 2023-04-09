@@ -1,5 +1,15 @@
-# 💫 About Me:
-🔭 I’m currently working on #Mini-Project-s6<br>🌱 I’m currently learning #Web3 Development<br>💬 Ask me about #Tech #Web3 #Music #Secrets<br>⚡ Fun fact - I want to compose music<br> 👁️ Looking for Internships
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roshan Lal Dia
+=====================================================================================================================================
+CSE Student🎓
+-------------
+
+* 🌍  I'm based in Thuckalay, Tamil Nadu
+* 🖥️  See my portfolio at [Portfolio under Procrastination](http://roshan-lal-dia.github.io)
+* ✉️  You can contact me at [roshanlal@diasonus.in](mailto:roshanlal@diasonus.in)
+* 🧠  I'm learning Web3 Development
+* 🤝  I'm open to collaborating on Pair Programming Sessions
+* ⚡  The secret is so abundant for the universe✨
+* 💬 Ask me about #Tech #Web3 #Music #Secrets
 
 ![About Me](https://github.com/roshan-lal-dia/roshan-lal-dia/blob/main/dia-linkedin-banner-mar-2023.png)
 
