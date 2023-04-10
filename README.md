@@ -6,8 +6,8 @@ CSE Student🎓
 * 🌍  I'm based in Thuckalay, Tamil Nadu
 * 🖥️  See my portfolio at [Portfolio under Procrastination](http://roshan-lal-dia.github.io)
 * ✉️  You can contact me at [roshanlal@diasonus.in](mailto:roshanlal@diasonus.in)
-* 🧠  I'm learning Web3 Development
-* 🤝  I'm open to collaborating on Pair Programming Sessions
+* 🧠  I'm learning Web3 Development as of now😁
+* 🤝  I'm open to collaborating on Pair Programming Sessions
 * ⚡  The secret is so abundant for the universe✨
 * 💬 Ask me about #Tech #Web3 #Music #Secrets
 
