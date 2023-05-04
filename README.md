@@ -7,7 +7,7 @@ CSE Student🎓
 * 🖥️  See my portfolio at [Portfolio under Procrastination](http://roshan-lal-dia.github.io)
 * ✉️  You can contact me at [roshanlal@diasonus.in](mailto:roshanlal@diasonus.in)
 * 🧠  I'm learning Web3 Development as of this quarter😁
-* 🧠  For now learning VueJS, Laravel, for a hackthon project🔜
+* 🧠  For now learning Figma | VueJS, Laravel, for a hackthon project🔜
 * 🤝  I'm open to collaborating on Pair Programming Sessions
 * ⚡  The first secret, secreat is so abundant for the universe✨
 * 💬 Ask me about #Tech #Web3 #Music #Secrets
