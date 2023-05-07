@@ -8,7 +8,7 @@ CSE Student🎓
 * ✉️  You can contact me at [roshanlal@diasonus.in](mailto:roshanlal@diasonus.in)
 * 🧠  I'm learning Web3 Development as of this quarter😁
 * 🔮 Must spend time to learn Figma | VueJS, Laravel with PHP the right 👍🏽 way
-* 🤝  I'm open to collaborating on Pair Programming Sessions
+* 🤝  I'm open for Pair Programming Sessions
 * ⚡  The first secret, secreat is so abundant for the universe✨
 * 💬 Ask me about #Tech #Web3 #Music #Secrets
 
