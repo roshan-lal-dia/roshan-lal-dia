@@ -9,7 +9,7 @@ CSE Student🎓
 * 🧠  I'm learning Web3 Development as of this quarter😁
 * 🔮 Must spend time to learn Figma | VueJS, Laravel with PHP the right 👍🏽 way, and Prompt engineering 
 * 🤝  I'm open for Pair Programming Sessions
-* 😫 Exams coming in one month 
+* 😫 Exams coming in one month , trying to understand maths to clear backlogs 
 * ⚡  The first secret, secreat is so abundant for the universe✨
 * 💬 Ask me about #Tech #Web3 #Music #Secrets
 
