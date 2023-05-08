@@ -9,7 +9,8 @@ CSE Student🎓
 * 🧠  I'm learning Web3 Development as of this quarter😁
 * 🔮 Must spend time to learn Figma | VueJS, Laravel with PHP the right 👍🏽 way, and Prompt engineering 
 * 🤝  I'm open for Pair Programming Sessions
-* ⚡  The first secret, secreat is so abundant for the universe✨
+* 😫 Exams coming in one month 
+* ⚡  The first secret, secreat is so abundant for the universe✨
 * 💬 Ask me about #Tech #Web3 #Music #Secrets
 
 ![About Me](https://github.com/roshan-lal-dia/roshan-lal-dia/blob/main/dia-linkedin-banner-mar-2023.png)
