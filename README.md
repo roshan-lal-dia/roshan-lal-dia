@@ -7,7 +7,7 @@ CSE Student🎓
 * 🖥️  See my portfolio at [Portfolio under Procrastination](http://roshan-lal-dia.github.io)
 * ✉️  You can contact me at [roshanlal@diasonus.in](mailto:roshanlal@diasonus.in)
 * 🧠  I'm learning Web3 Development as of this quarter😁
-* 🔮 Must spend time to learn Figma | ~~VueJS, Laravel with PHP the right 👍🏽 way~~ -- JAVA, ~~Angular~~, Spring Boot, and Prompt engineering 
+* 🔮 Must spend time to learn Figma | ~~VueJS, Laravel with PHP the right 👍🏽 way~~ -- JAVA, ~~Angular~~ React, Spring Boot, and Prompt engineering 
 * 🤝  I'm open for Pair Programming Sessions
 * 😫 Exams coming in one month , trying to understand maths to clear backlogs | also trying to complete my [mini-project](https://github.com/roshan-lal-dia/mini-project-s6)
 * ⚡  The first secret, secreat is so abundant for the universe✨
