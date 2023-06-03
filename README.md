@@ -59,7 +59,7 @@ CSE Student🎓
 
 <a href="http://www.github.com/roshan-lal-dia"><img src="https://github-readme-streak-stats.herokuapp.com/?user=roshan-lal-dia&stroke=a855f7&background=000000&ring=22c55e&fire=22c55e&currStreakNum=a855f7&currStreakLabel=22c55e&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
 
-<a href="http://www.github.com/roshan-lal-dia"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=roshan-lal-dia&bg_color=000000&color=a855f7&line=6366f1&point=a855f7&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/roshan-lal-dia"><img src="https://github-readme-activity-graph.vercel.app/graph?username=roshan-lal-dia&bg_color=000000&color=a855f7&line=6366f1&point=a855f7&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/roshan-lal-dia" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan-lal-dia&langs_count=10&title_color=22c55e&text_color=a855f7&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
