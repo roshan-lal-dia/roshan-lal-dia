@@ -9,7 +9,7 @@ CSE Student🎓
 * 🧠  I'm learning Web3 Development as of this quarter😁
 * 🔮 Must spend time to learn Figma and Algebra | ~~VueJS, Inertia, Tailwind CSS, Laravel with PHP the right 👍🏽 way~~ -- JAVA, ~~Angular~~ React, Spring Boot, and Prompt engineering 
 * 🤝  I'm open for Pair Programming Sessions
-* 😫 Exams coming in one month , trying to understand maths to clear backlogs | Completed my [mini-project](https://github.com/roshan-lal-dia/mini-project-s6) | Start streaming 
+* 😫 Examsstarting from tomorrow, trying to understand maths to clear backlogs | Completed my [mini-project](https://github.com/roshan-lal-dia/mini-project-s6) | Start streaming 
 * ⚡  The first secret, secreat is so abundant for the universe✨
 * 💖  Interested Domains  -- Web3 | Image Processing | Security | Data Compression | Quantum Computing
 * 💬 Ask me about #Tech #Web3 #Music #Secrets
