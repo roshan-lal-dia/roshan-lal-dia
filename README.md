@@ -13,6 +13,7 @@ CSE Student🎓
 * ⚡  The first secret, secreat is so abundant for the universe✨
 * 💖  Interested Domains  -- Web3 | Image Processing | Security | Data Compression | Quantum Computing
 * 💬 Ask me about #Tech #Web3 #Music #Secrets
+* 🪖 Practicing Discipline
 
 ![About Me](https://github.com/roshan-lal-dia/roshan-lal-dia/blob/main/dia-linkedin-banner-mar-2023.png)
 
