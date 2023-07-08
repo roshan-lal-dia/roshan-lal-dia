@@ -10,7 +10,7 @@ CSE Student🎓
 * 🔮 Must spend time to learn Figma and Algebra | ~~VueJS, Inertia, Tailwind CSS, Laravel with PHP the right 👍🏽 way~~ -- JAVA, ~~Angular~~ React, Spring Boot, and Prompt engineering 
 * 🤝  I'm open for Pair Programming Sessions
 * 😫 Trying to understand maths to clear backlogs | Completed my [mini-project](https://github.com/roshan-lal-dia/mini-project-s6) | Start streaming 
-* ⚡  The first secret, secreat is so abundant for the universe✨
+* ⚡  The first secret, secret is so abundant for the universe✨
 * 💖  Interested Domains  -- Web3 | Image Processing | Security | Data Compression | Quantum Computing
 * 💬 Ask me about #Tech #Web3 #Music #Secrets
 * 🪖 Practicing Discipline
