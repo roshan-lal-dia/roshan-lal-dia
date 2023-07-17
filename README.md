@@ -68,7 +68,7 @@ CSE Student🎓
 ![](https://github-profile-trophy.vercel.app/?username=roshan-lal-dia&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
 ## ✅ The Progress tracker
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64b5a9fe0a49b0be0ed6f16c?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64b5a9fe0a49b0be0ed6f16c?variant=dark&roadmaps=computer-science%2Cblockchain%2Cfrontend%2Cbackend)](https://roadmap.sh)
 
 ## 🐦 Latest Tweet
 ![](https://gtce.itsvg.in/api?username=roshanlal_dia&theme=synthwave)
