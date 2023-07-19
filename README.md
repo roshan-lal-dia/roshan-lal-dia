@@ -7,12 +7,13 @@ CSE Student🎓
 * 🖥️  See my portfolio at [Portfolio under Procrastination](http://roshan-lal-dia.github.io)
 * ✉️  You can contact me at [roshanlal@diasonus.in](mailto:roshanlal@diasonus.in)
 * 🧠  I'm learning Web3 Development as of this quarter😁
-* 🔮 Must spend time to learn Figma and Algebra | ~~VueJS, Inertia, Tailwind CSS, Laravel with PHP the right 👍🏽 way~~ -- JAVA, ~~Angular~~ React, Spring Boot, and Prompt engineering 
+* 📌 Must spend time to learn Figma and Algebra | ~~VueJS, Inertia, Tailwind CSS, Laravel with PHP the right 👍🏽 way~~ -- JAVA, ~~Angular~~ React, Spring Boot, and Prompt engineering 
 * 🤝  I'm open for Pair Programming Sessions
 * 😫 Trying to understand maths to clear backlogs | Completed my [mini-project](https://github.com/roshan-lal-dia/mini-project-s6) | Started streaming 
 * ⚡  The first secret, secret is so abundant for the universe✨
-* 💖  Interested Domains  -- Web3 | Image Processing | Security | Data Compression | Quantum Computing
+* 💖  Interested Domains  -- Web3 | Digital Image Processing | Security | Digital Forensics | Data Compression | Quantum Computing
 * 💬 Ask me about #Tech #Web3 #Music #Secrets
+* 🔮 Finding and Refining my Ikigai
 * 🪖 Practicing Discipline
 
 ![About Me](https://github.com/roshan-lal-dia/roshan-lal-dia/blob/main/dia-linkedin-banner-mar-2023.png)
