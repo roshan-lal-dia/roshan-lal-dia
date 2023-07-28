@@ -7,7 +7,7 @@ CSE Student🎓
 * 🖥️  See my portfolio at [Portfolio under Procrastination](http://roshan-lal-dia.github.io)
 * ✉️  You can contact me at [roshanlal@diasonus.in](mailto:roshanlal@diasonus.in)
 * 🧠  I'm learning Web3 Development as of this quarter😁
-* 📌 Must spend time to learn Figma and Algebra | ~~VueJS, Inertia, Tailwind CSS, Laravel with PHP the right 👍🏽 way~~ -- JAVA, ~~Angular~~ React, Spring Boot, and Prompt engineering 
+* 📌 Must spend time to learn Probability, Number Theory, Queuing Theory and Algebra | ~~VueJS, Inertia, Tailwind CSS, Laravel with PHP the right 👍🏽 way~~ -- JAVA, ~~Angular~~ React, Spring Boot, and Prompt engineering, Bootstrap 5 
 * 🤝  I'm open for Pair Programming Sessions
 * 😫 Trying to understand maths to clear backlogs | Completed my [mini-project](https://github.com/roshan-lal-dia/mini-project-s6) | Started streaming | okay let's start blogging.
 * ⚡  The first secret, secret is so abundant for the universe✨
