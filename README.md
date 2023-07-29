@@ -5,7 +5,7 @@ CSE Student🎓
 
 * 🌍  I'm based in Thuckalay, Tamil Nadu
 * 🖥️  See my portfolio at [Portfolio under Procrastination](http://roshan-lal-dia.github.io)
-* 📰 Just started blogging [Roshan Lal Dia Blogs](blogs.diasonus.in)
+* 📰 Just started blogging [Roshan Lal Dia Blogs](https://blogs.diasonus.in)
 * ✉️  You can contact me at [roshanlal@diasonus.in](mailto:roshanlal@diasonus.in)
 * 🧠  I'm learning Web3 Development as of this quarter😁
 * 📌 Must spend time to learn Probability, Number Theory, Queuing Theory and Algebra | ~~VueJS, Inertia, Tailwind CSS, Laravel with PHP the right 👍🏽 way~~ -- JAVA, ~~Angular~~ React, Spring Boot, and Prompt engineering, Bootstrap 5 
