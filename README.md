@@ -14,6 +14,7 @@ CSE Student🎓
 * ⚡  The first secret, secret is so abundant for the universe✨
 * 💖  Interested Domains  -- Web3 | Digital Image Processing | Security | Digital Forensics | Data Compression | Quantum Computing
 * 💬 Ask me about #Tech #Web3 #Music #Secrets
+* 📸 Attending internship on Image Processing at  IETE.
 * 🔮 Finding and Refining my Ikigai
 * 🪖 Practicing Discipline
 
