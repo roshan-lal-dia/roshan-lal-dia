@@ -8,7 +8,7 @@ CSE Student🎓
 * 📰 Just started blogging [Roshan Lal Dia Blogs](https://blogs.diasonus.in)
 * ✉️  You can contact me at [roshanlal@diasonus.in](mailto:roshanlal@diasonus.in)
 * 🧠  I'm learning Web3 Development as of this quarter😁
-* 📌 Must spend time to learn Probability, Number Theory, Queuing Theory and Algebra | ~~VueJS, Inertia, Tailwind CSS~~, Laravel with PHP the right 👍🏽 way -- ~~JAVA, Angular~~, ~~Spring Boot~~, React, Prompt engineering and Bootstrap 5 
+* 📌 Must spend time to learn Probability, Number Theory, Queuing Theory and Algebra | ~~VueJS, Inertia, Tailwind CSS~~, Laravel with PHP the right 👍🏽 way -- ~~JAVA, Angular~~, ~~Spring Boot~~, React, Prompt engineering, Bootstrap 5 and MATLAB
 * 🤝  I'm open for Pair Programming Sessions
 * 😫 Trying to understand maths to clear backlogs | Completed my [mini-project](https://github.com/roshan-lal-dia/mini-project-s6) | Started streaming | Started Blogging.
 * ⚡  The first secret, secret is so abundant for the universe✨
