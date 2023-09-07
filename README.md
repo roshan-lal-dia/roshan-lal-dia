@@ -16,6 +16,7 @@ CSE Student🎓
 * 💬 Ask me about #Tech #Web3 #Music #Secrets
 * 📸 Attending internship on Image Processing at  IETE.
 * 🔮 Finding and Refining my Ikigai
+* Found my current Ikigai - <a href="https://www.github.com/roshan-lal-dia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />DIA Camp - Continuous Learning, Constant Feedback, Consistent Growth</a>
 * 🪖 Practicing Discipline
 
 ![About Me](https://github.com/roshan-lal-dia/roshan-lal-dia/blob/main/dia-linkedin-banner-mar-2023.png)
