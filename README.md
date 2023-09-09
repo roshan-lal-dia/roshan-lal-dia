@@ -17,6 +17,7 @@ CSE Student🎓
 * 📸 Attending internship on Image Processing at  IETE.
 * 🔮 Finding and Refining my Ikigai
 * Found my current Ikigai - <a href="https://www.github.com/diacamp" target="_blank" rel="noreferrer">DIA Camp - Continuous Learning, Constant Feedback, Consistent Growth</a>
+* ⚛️
 * 🪖 Practicing Discipline
 
 ![About Me](https://github.com/roshan-lal-dia/roshan-lal-dia/blob/main/dia-linkedin-banner-mar-2023.png)
