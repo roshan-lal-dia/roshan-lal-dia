@@ -19,6 +19,7 @@ CSE Student🎓
 * Found my current Ikigai - <a href="https://www.github.com/diacamp" target="_blank" rel="noreferrer">DIA Camp - Continuous Learning, Constant Feedback, Consistent Growth</a>
 * ⚛️ Well I found out who has something similar to my life, Robert Oppenheimer J 
 * 🪖 Practicing Discipline
+*  **You don't lack resources, you lack FOCUS**
 
 ![About Me](https://github.com/roshan-lal-dia/roshan-lal-dia/blob/main/dia-linkedin-banner-mar-2023.png)
 
