@@ -20,6 +20,7 @@ CSE Student🎓
 * ⚛️ Well I found out who has something similar to my life, Robert Oppenheimer J 
 * 🪖 Practicing Discipline
 *  **You don't lack resources, you lack FOCUS**
+*  Beleive the one above 🌱
 
 ![About Me](https://github.com/roshan-lal-dia/roshan-lal-dia/blob/main/dia-linkedin-banner-mar-2023.png)
 
