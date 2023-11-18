@@ -11,7 +11,7 @@ CSE Student🎓
 * 🧠  I'm learning Web3 Development as of this quarter😁
 * 📌 Started spending time to learn Probability, Number Theory, Queuing Theory and Algebra | ~~Laravel with PHP the right 👍🏽 way~~
 * 🤝  I'm open for Pair Programming Sessions
-* 😫 Trying to understand maths to clear backlogs | Hexaware --I'm coming for you.
+* ♾️  The universe is calling me, the calling is Dia?
 * ⚡  The first secret, secret is so abundant for the universe✨
 * 💖  Interested Domains  -- Web3 | Digital Image Processing | Security | Digital Forensics | Data Compression | Quantum Computing
 * 💬 Ask me about #Tech #Web3 #Music #Secrets
