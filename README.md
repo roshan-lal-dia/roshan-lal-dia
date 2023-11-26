@@ -15,13 +15,15 @@ CSE Student🎓
 * ⚡  The first secret, secret is so abundant for the universe✨
 * 💖  Interested Domains  -- Web3 | Digital Image Processing | Security | Digital Forensics | Data Compression | Quantum Computing
 * 💬 Ask me about #Tech #Web3 #Music #Secrets
-* [//]: # (  📸 Attending internship on Image Processing at  IETE.)
 * 🔮 Finding and Refining my Ikigai
 * Found my current Ikigai - <a href="https://www.github.com/diacamp" target="_blank" rel="noreferrer">DIA Camp - Continuous Learning, Constant Feedback, Consistent Growth</a>
 * ⚛️ Well I found out who has something similar to my life, Robert Oppenheimer J 
 * 🪖 Practicing Discipline
 *  **You don't lack resources, you lack FOCUS**
 *  Beleive the one above 🌱
+
+### Completed Challenges:
+- 
 
 ![About Me](https://github.com/roshan-lal-dia/roshan-lal-dia/blob/main/dia-linkedin-banner-mar-2023.png)
 
