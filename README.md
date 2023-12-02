@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 CSE Student🎓
 -------------
-> Ongoing Challenge - #30Days of C👊, GitHub Universe Cloud Skills Challenge 🐙
+> Ongoing Challenge - #30Days of C👊
 
 * 🌍  I'm based in Thuckalay, Tamil Nadu
 * 🖥️  See my portfolio at [Portfolio under Procrastination](http://roshan-lal-dia.github.io)
@@ -23,7 +23,7 @@ CSE Student🎓
 *  Beleive the one above 🌱
 
 ### Completed Challenges:
-- 
+- **GitHub Universe Cloud Skills Challenge 🐙**
 
 ![About Me](https://github.com/roshan-lal-dia/roshan-lal-dia/blob/main/dia-linkedin-banner-mar-2023.png)
 
