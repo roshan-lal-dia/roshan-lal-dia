@@ -10,7 +10,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 📰 Just started blogging [Roshan Lal Dia Blogs](https://blogs.diasonus.in)
 * ✉️  You can contact me at [roshanlal@diasonus.in](mailto:roshanlal@diasonus.in)
 * 🧠  I'm learning Web3 Development as of this quarter😁
-* 📌 Started spending time to learn Figma, Python ~~Probability, Number Theory, Queuing Theory and Algebra~~ | ~~Laravel with PHP the right 👍🏽 way~~
+* 📌 Started spending time to learn ~~Figma, Python~~ Discipline ~~Probability, Number Theory, Queuing Theory and Algebra~~ | ~~Laravel with PHP the right 👍🏽 way~~
 * 🤿 Diving into the.Net Ecosystem 
 * 🤝  I'm open for Pair Programming Sessions
 * ♾️  The universe is calling me, the calling is Dia?
