@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 [Microsoft Learn Student Ambassador Beta👨‍💻](https://mvp.microsoft.com/en-US/studentambassadors/profile/22a44545-1fa0-4af6-a3aa-d9c4c96c3c07?wt.mc_id=studentamb_326842) | CSE student 🎓
 -------------
-> Ongoing Challenge - #CV Final year project in 2 days 
+> Ongoing Challenge - 30Days of UnF*** Challenge
 
 * 🌍  I'm based in Thuckalay, Tamil Nadu
 * 🖥️  See my portfolio at [Portfolio under Procrastination](http://roshan-lal-dia.github.io)
