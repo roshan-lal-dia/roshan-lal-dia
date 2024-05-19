@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), My name is Roshan Lal Dia
 =====================================================================================================================================
-[Microsoft Learn Student Ambassador Beta👨‍💻](https://mvp.microsoft.com/en-US/studentambassadors/profile/22a44545-1fa0-4af6-a3aa-d9c4c96c3c07?wt.mc_id=studentamb_326842) | CSE student 🎓
+[Microsoft Learn Student Ambassador Beta👨‍💻](https://mvp.microsoft.com/en-US/studentambassadors/profile/22a44545-1fa0-4af6-a3aa-d9c4c96c3c07?wt.mc_id=studentamb_326842) | CSE student 🎓 - not a graduate
 -------------
 > Ongoing Challenge - 30Days of UnF*** Challenge
 
