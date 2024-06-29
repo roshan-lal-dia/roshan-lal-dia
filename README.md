@@ -1,19 +1,20 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), My name is Roshan Lal Dia
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Roshan Lal Dia
 =====================================================================================================================================
 [Microsoft Learn Student Ambassador Beta👨‍💻](https://mvp.microsoft.com/en-US/studentambassadors/profile/22a44545-1fa0-4af6-a3aa-d9c4c96c3c07?wt.mc_id=studentamb_326842) | CSE graduate🎓
 -------------
 > Ongoing Challenge - 💣
 # I'm undergoing a massive skillup phase, so information is constantly changing
 * 🌍  I'm based in Thuckalay, Tamil Nadu
-* 🖥️  See my portfolio at [Portfolio under Procrastination](http://roshan-lal-dia.github.io)
+* ⚖️ Legally Roshan Lal J
+* 🖥️  See my portfolio at [Portfolio under Procrastination](http://roshanlaldia.me)
 * 📰 Just started blogging [Roshan Lal Dia Blogs](https://blogs.diasonus.in)
-* ✉️  You can contact me at [roshanlal@diasonus.in](mailto:roshanlal@diasonus.in)
-* 🧠  I'm learning ~~Web3 Development~~ managing multiple intersts  as of this quarter😁
+* ✉️  You can contact me at [hi@roshanlaldia.me](mailto:hi@roshanlaldia.me)
+* 🧠  I'm learning ~~Web3 Development~~ ~~managing multiple intersts~~ Hardcore JS😼 as of this quarter😁
 * 📌 Started spending time to learn ~~Figma, Python~~ Discipline ~~Probability, Number Theory, Queuing Theory and Algebra~~ | ~~Laravel with PHP the right 👍🏽 way~~
-* 🤿 Diving into the ~~.Net~~ CV Ecosystem
+* 🤿 Diving into ~~.Net~~ ~~CV Ecosystem~~ SQL
 * 💖  Interested Domains  -- Web3 | Digital Image Processing | Security | Digital Forensics | Data Compression | Quantum Computing
 * 💬 Ask me about #Tech #Web3 #Music #Secrets
-* 🤝  I'm open for Pair Programming Sessions
+* 🤝  I'm open for Pair Programming Sessions 👧
 
 > Psycholoigiccally me.
 
