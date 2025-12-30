@@ -1,95 +1,274 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Roshan Lal Dia
-=====================================================================================================================================
-[Microsoft Learn Student Ambassador Beta👨‍💻](https://mvp.microsoft.com/en-US/studentambassadors/profile/22a44545-1fa0-4af6-a3aa-d9c4c96c3c07?wt.mc_id=studentamb_326842) | CSE graduate🎓
--------------
-> Ongoing Challenge - 💣
-# I'm undergoing a massive skillup phase, so information is constantly changing
-* 🌍  I'm based in Thuckalay, Tamil Nadu
-* ⚖️ Legally Roshan Lal J
-* 🖥️  See my portfolio at [Portfolio under Procrastination](http://roshanlaldia.me)
-* 📰 Just started blogging [Roshan Lal Dia Blogs](https://blogs.diasonus.in)
-* ✉️  You can contact me at [hi@roshanlaldia.me](mailto:hi@roshanlaldia.me)
-* 🧠  I'm learning ~~Web3 Development~~ ~~managing multiple intersts~~ Hardcore JS😼 as of this quarter😁
-* 📌 Started spending time to learn ~~Figma, Python~~ Discipline ~~Probability, Number Theory, Queuing Theory and Algebra~~ | ~~Laravel with PHP the right 👍🏽 way~~
-* 🤿 Diving into ~~.Net~~ ~~CV Ecosystem~~ SQL
-* 💖  Interested Domains  -- Web3 | Digital Image Processing | Security | Digital Forensics | Data Compression | Quantum Computing
-* 💬 Ask me about #Tech #Web3 #Music #Secrets
-* 🤝  I'm open for Pair Programming Sessions 👧
+<div align="center">
+  
+<!--![Profile Banner](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/6c943a07-a41b-480a-bdeb-70ce8caca433.png) -->
 
-> Psycholoigiccally me.
+# **ROSHAN LAL DIA** 
+### *Universe Caller | JavaScript Alchemist | Enterprise Architect*
 
-* ♾️  The universe is calling me, the calling is Dia?
-* ⚡  The first secret, secret is so abundant for the universe✨
-* 🔮 Finding and Refining my Ikigai
-* ⚛️ Well I found out who has something similar to my life, Robert Oppenheimer J 
-* 🪖 Practicing Discipline
-*  **You don't lack resources, you lack FOCUS**
-*  Beleive the one above 🌱
+<sup>**Microsoft Learn Student Ambassador** • **CSE Graduate** • **Discipline Practitioner**</sup>
 
-### Completed Challenges:
-- **GitHub Universe Cloud Skills Challenge 🐙**
+```
+ █████╗ ██╗      ██████╗██╗  ██╗███████╗███╗   ███╗██╗███████╗████████╗
+██╔══██╗██║     ██╔════╝██║  ██║██╔════╝████╗ ████║██║██╔════╝╚══██╔══╝
+███████║██║     ██║     ███████║█████╗  ██╔████╔██║██║█████╗     ██║   
+██╔══██║██║     ██║     ██╔══██║██╔══╝  ██║╚██╔╝██║██║██╔══╝     ██║   
+██║  ██║███████╗╚██████╗██║  ██║███████╗██║ ╚═╝ ██║██║███████╗   ██║   
+╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚═╝╚══════╝   ╚═╝    
+```
 
-![About Me](https://github.com/roshan-lal-dia/roshan-lal-dia/blob/main/dia-linkedin-banner-mar-2023.png)
-
-[![](https://visitcount.itsvg.in/api?id=roshan-lal-dia&icon=2&color=11)](https://visitcount.itsvg.in)
-## 🌐 Socials:
-
-<p align="left"> <a href="https://www.github.com/roshan-lal-dia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/roshanlal_dia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/roshan-lal-dia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/roshanlal_dia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@roshanlal_dia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a><a href="https://www.twitch.tv/roshanlal_dia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p><a href="https://www.hashnode.com/@roshanlaldia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a></p>
-
-
-## 🖥️ Skills:
-```Good and wanted to be good at✨```
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
- <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-<a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
-<a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" alt="Alchemy" /></a>
-<a href="https://trufflesuite.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/truffle-colored.svg" width="36" height="36" alt="Truffle" /></a>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-</p>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-
-# 📊 GitHub Stats:
-
-<a href="http://www.github.com/roshan-lal-dia"><img src="https://github-readme-stats.vercel.app/api?username=roshan-lal-dia&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=a855f7&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="roshan-lal-dia's GitHub stats" /></a>
-
-<a href="http://www.github.com/roshan-lal-dia"><img src="https://github-readme-streak-stats.herokuapp.com/?user=roshan-lal-dia&stroke=a855f7&background=000000&ring=22c55e&fire=22c55e&currStreakNum=a855f7&currStreakLabel=22c55e&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
-
-<a href="http://www.github.com/roshan-lal-dia"><img src="https://github-readme-activity-graph.vercel.app/graph?username=roshan-lal-dia&bg_color=000000&color=a855f7&line=6366f1&point=a855f7&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/roshan-lal-dia" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan-lal-dia&langs_count=10&title_color=22c55e&text_color=a855f7&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=roshan-lal-dia&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-
-## ✅ The Progress tracker
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64b5a9fe0a49b0be0ed6f16c?variant=dark&roadmaps=computer-science%2Cblockchain%2Cfrontend%2Cbackend)](https://roadmap.sh)
-
-## 🐦 Latest Tweet
-![](https://gtce.itsvg.in/api?username=roshanlal_dia&theme=synthwave)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> [!IMPORTANT]
+> 🚀 **FOCUS PHASE ACTIVATED** — "You don't lack resources, you lack FOCUS"
+> I'm undergoing a *massive* skill-up phase. Information here evolves constantly.
 
 ---
 
+</div>
+
+## <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" alt="JavaScript"/> **Current Focus** — Q4 2025
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>🔥 Hardcore JavaScript</strong><br/>
+      <sub>ES2024+ | Async Patterns | Performance</sub>
+    </td>
+    <td align="center" width="50%">
+      <strong>🗄️ SQL Mastery</strong><br/>
+      <sub>Query Optimization | Data Architecture</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>🏢 Enterprise Systems</strong><br/>
+      <sub>Power Platform | Azure | Dataverse</sub>
+    </td>
+    <td align="center" width="50%">
+      <strong>🎯 Discipline Framework</strong><br/>
+      <sub>Deep Work | Ikigai Refinement | Systems</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="30" alt="GitHub"/> **About Me**
+
+<details open>
+<summary><strong>🌍 The Geographic & Philosophical Self</strong></summary>
+
+- **📍 Location:** Thuckalay, Tamil Nadu, India  
+- **⚖️ Legal Name:** Roshan Lal J  
+- **🎓 Education:** CSE Graduate | Microsoft Certification Track  
+- **🏢 Current:** Building Enterprise Data Solutions @ **Unifi**
+
+</details>
+
+<details open>
+<summary><strong>🧠 The Intellectual & Spiritual Journey</strong></summary>
+
+- **♾️ Philosophy:** The universe is calling. The calling *is* Dia.  
+- **⚛️ Inspiration:** Robert Oppenheimer's life parallels my own trajectory  
+- **🔮 Quest:** Finding and refining my **Ikigai** (life's purpose)  
+- **⚡ Principle:** *Secrets are abundant for those who seek.*  
+- **🪖 Practice:** Mastering **Discipline** — the foundation of all progress
+
+</details>
+
+<details open>
+<summary><strong>💻 The Technical Arsenal</strong></summary>
+
+**Languages:** `JavaScript` • `Python` • `C++` • `PowerFx` • `SQL`
+
+**Platforms:** `Microsoft Power Platform` • `Azure` • `SharePoint` • `Dataverse` • `Power BI`
+
+**Tools:** `Visual Studio Code` • `Postman` • `PowerShell` • `Git` • `Azure DevOps`
+
+**Current Learning:** 
+- DP-600 (Power BI) Certification Path
+- Advanced DAX & Query Optimization
+- GraphQL & API Design Patterns
+- Zoho Deluge (Comparative Analysis)
+
+</details>
+
+---
+
+## <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="30" alt="Development"/> **Technical Stack**
+
+<div align="center">
+
+### **Frontend & Core Language**
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JS" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>
+
+### **Cloud & Enterprise**
+<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VSCode" width="50" height="50"/>
+
+### **Database & Architecture**
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="SQL" alt="MySQL" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node" width="50" height="50"/>
+
+</div>
+
+---
+
+## 🚀 **Featured Work & Domains**
+
+> [!NOTE]  
+> Actively shipping code across **Web3** • **Digital Image Processing** • **Security & Forensics** • **Data Compression** • **Quantum Computing** explorations
+
+| Domain | Status | Notes |
+|--------|--------|-------|
+| **Enterprise MDM Solutions** | 🔥 Active | Master Data Management at scale |
+| **Power Platform Architecture** | 🔥 Active | Model-driven apps, complex automations |
+| **JavaScript Deep Dives** | 🔥 Active | Modern patterns, performance optimization |
+| **SQL & Data Warehousing** | 🚀 Emerging | SCD strategies, dimensional modeling |
+| **Web3 Explorations** | 📚 Paused | ~Revisiting post-discipline phase~ |
+| **CV & Image Processing** | 📚 Paused | ~Digital signal domain knowledge~ |
+
+---
+
+## <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="30" alt="GitHub"/> **GitHub Statistics**
+
+<div align="center">
+
+> [!TIP]
+> **Contribution Philosophy:** Quality over quantity. Deep work leaves fewer but higher-impact commits.
+
+```
+Last Updated: December 30, 2025
+Status: In Massive Skill-Up Phase
+Trajectory: 📈 Towards System Mastery
+```
+
+</div>
+
+---
+
+## 🎯 **Current Challenges & Quest Items**
+
+<div>
+
+- [x] **GitHub Universe Cloud Skills Challenge 🐙** ← *CONQUERED*
+- [ ] **DP-600 Power BI Certification** — In Progress  
+- [ ] **Hardcore JavaScript Mastery** — Deep Dive Phase  
+- [ ] **SQL Optimization Expert** — Building Expertise  
+- [ ] **Enterprise Architecture Patterns** — Long-term Goal  
+- [ ] **Finding Ikigai** — The Ultimate Quest  
+
+</div>
+
+---
+
+## 💬 **Open For Collaboration**
+
+<div align="center">
+
+### **Ask Me About:**
+`#Tech` • `#Architecture` • `#JavaScript` • `#PowerPlatform` • `#Music` • `#Secrets` • `#Philosophy`
+
+### **Let's Connect:**
+
+[![Email](https://img.shields.io/badge/Email-hi%40roshanlaldia.me-blue?style=flat-square&logo=gmail)](mailto:hi@roshanlaldia.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-roshanlaldia.me-success?style=flat-square&logo=globe)](https://roshanlaldia.me)
+[![Blog](https://img.shields.io/badge/Blog-Roshan%20Lal%20Dia%20Blogs-ff69b4?style=flat-square&logo=rss)](https://blog.roshanlaldia.me)
+
+### **Pair Programming Sessions** 👧
+🤝 *I'm open for collaborative deep-work sessions*
+
+</div>
+
+---
+
+## 🎼 **Interests Beyond Code**
+
+<details>
+<summary><strong>🎵 Music & Creative Expression</strong></summary>
+
+- **Classical & Acoustic Guitar** — Since childhood  
+- **Harmonica Exploration** — Recent interest  
+- **Music Composition** — Experimenting with theory  
+- **YouTube Music Curator** — Constant discovery  
+
+</details>
+
+<details>
+<summary><strong>📽️ Entertainment & Media**</strong></summary>
+
+- **Tamil Cinema** — Storytelling excellence  
+- **International Cinema** — Spy thrillers, psychological dramas  
+- **Anime** — Crunchyroll subscriber, worldbuilding enthusiast  
+- **Literature & Fiction** — Expanding philosophical horizons  
+
+</details>
+
+<details>
+<summary><strong>♟️ Games & Mental Models</strong></summary>
+
+- **Chess** — Pattern recognition & strategic thinking  
+- **Strategic Games** — System-level complexity  
+
+</details>
+
+---
+
+## 🌱 **The Philosophy Behind The Code**
+
+> **Psychological Axioms:**
+> - The universe is infinite; secrets are abundant for those with vision
+> - Discipline isn't restriction—it's *freedom within a structure*
+> - Resources are everywhere; FOCUS is the scarce commodity
+> - Every master was once a student; every legend started with one decision
+
+---
+
+## 📈 **Growth Trajectory**
+
+```
+2025 Q4+
+  │
+  ├─ 🧠 Master JavaScript Fundamentals
+  │    └─→ Advanced Patterns & Performance
+  │
+  ├─ 🗄️ SQL Expertise
+  │    └─→ Data Warehouse Architecture
+  │
+  ├─ 🏢 Enterprise Patterns
+  │    └─→ System Design at Scale
+  │
+  └─ 🔮 Ikigai Refinement
+       └─→ Life's Purpose Crystallization
+```
+
+---
+
+## 🔐 **The First Secret** ⚡
+
+<div align="center">
+
+> The first secret is this: **Secrets are so abundant for the universe.**  
+> But you must have the *vision* to see them.  
+> And the *discipline* to act on them.
+
+</div>
+
+---
+
+<div align="center">
+
+### Made with ❤️ in Thuckalay, Tamil Nadu  
+### *"The universe is calling. The calling is Dia."* 🌌
+
+**Last Updated:** December 30, 2025  
+**Status:** 🟢 Active Skill-Up Phase  
+**Next Sync:** When discipline yields mastery
+
+---
+
+<sup>This README pushes the boundaries of Markdown expressiveness while staying true to GitHub's rendering capabilities. Built with intention, philosophy, and code.</sup>
+
+</div>
